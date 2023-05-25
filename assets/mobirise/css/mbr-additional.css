@@ -3525,45 +3525,6 @@ a {
 .cid-tFe6TfWzbu .mbr-section-btn {
   color: #089106;
 }
-.cid-tAwan4aTxh {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tAwan4aTxh .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tAwan4aTxh .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tAwan4aTxh .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
-}
-.cid-tAwan4aTxh .panel-title {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.cid-tAwan4aTxh .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #000000;
-}
-.cid-tAwan4aTxh .panel-body,
-.cid-tAwan4aTxh .card-header {
-  padding: 1rem 0;
-}
-.cid-tAwan4aTxh .panel-title-edit {
-  color: #000000;
-}
 .cid-tAwgWfKYcK .navbar-dropdown {
   position: relative !important;
 }
